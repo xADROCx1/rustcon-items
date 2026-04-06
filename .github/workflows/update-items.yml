@@ -1,0 +1,45 @@
+name: Update Rust Items
+
+on:
+  schedule:
+    - cron: '0 19 * * 4'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gate - first Thursday of month (skip manual runs)
+        if: github.event_name == 'schedule'
+        run: |
+          DAY=$(date +%d)
+          echo "Day of month: $DAY"
+          if [ "$DAY" -gt 7 ]; then
+            echo "Not the first Thursday of the month. Skipping."
+            exit 78
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scripts/scrape-items.js
+
+      - name: Commit updated items.json
+        run: |
+          git config user.name  "rustcon-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add items.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            COUNT=$(node -e "console.log(require('./items.json').count)")
+            git commit -m "auto: update items ($COUNT total) $(date +%Y-%m-%d)"
+            git push
+          fi

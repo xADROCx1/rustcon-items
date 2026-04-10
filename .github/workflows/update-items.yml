@@ -2,7 +2,7 @@ name: Update Rust Items
 
 on:
   schedule:
-    - cron: '0 19 * * 4'
+    - cron: '0 19 * * 4'   # Every Thursday at 19:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -12,16 +12,6 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Gate - first Thursday of month (skip manual runs)
-        if: github.event_name == 'schedule'
-        run: |
-          DAY=$(date +%d)
-          echo "Day of month: $DAY"
-          if [ "$DAY" -gt 7 ]; then
-            echo "Not the first Thursday of the month. Skipping."
-            exit 78
-          fi
-
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
@@ -33,7 +23,7 @@ jobs:
 
       - name: Commit updated items.json
         run: |
-          git config user.name  "rustcon-bot"
+          git config user.name "rustcon-bot"
           git config user.email "bot@users.noreply.github.com"
           git add items.json
           if git diff --staged --quiet; then

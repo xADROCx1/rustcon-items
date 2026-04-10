@@ -1,6 +1,6 @@
 {
-  "version": "2026-04-06",
-  "updated": "2026-04-06T20:13:59.115420Z",
+  "version": "2026-04-10",
+  "updated": "2026-04-10T01:16:52.780Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
   "count": 1185,
   "added": [],
@@ -3507,18 +3507,18 @@
       "icon": "https://cdn.rusthelp.com/images/public/innertube.horse.png"
     },
     {
-      "name": "Inner Tube (innertube)",
-      "shortname": "innertube",
-      "id": -697981032,
-      "category": "Fun",
-      "icon": "https://cdn.rusthelp.com/images/public/innertube.png"
-    },
-    {
       "name": "Inner Tube (innertube.unicorn)",
       "shortname": "innertube.unicorn",
       "id": 2052270186,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/innertube.unicorn.png"
+    },
+    {
+      "name": "Inner Tube (innertube)",
+      "shortname": "innertube",
+      "id": -697981032,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/innertube.png"
     },
     {
       "name": "Instant Camera",
@@ -5845,49 +5845,49 @@
       "icon": "https://cdn.rusthelp.com/images/public/rug.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Blue",
+      "name": "Rustigé Egg - Blue",
       "shortname": "rustige_egg_b",
       "id": -173268132,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_b.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Cerulean",
+      "name": "Rustigé Egg - Cerulean",
       "shortname": "rustige_egg_g",
       "id": -173268127,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_g.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Green",
+      "name": "Rustigé Egg - Green",
       "shortname": "rustige_egg_e",
       "id": -173268125,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_e.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Ivory",
+      "name": "Rustigé Egg - Ivory",
       "shortname": "rustige_egg_d",
       "id": -173268126,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_d.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Purple",
+      "name": "Rustigé Egg - Purple",
       "shortname": "rustige_egg_c",
       "id": -173268131,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_c.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - Red",
+      "name": "Rustigé Egg - Red",
       "shortname": "rustige_egg_a",
       "id": -173268129,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_a.png"
     },
     {
-      "name": "Rustig\u00e9 Egg - White",
+      "name": "Rustigé Egg - White",
       "shortname": "rustige_egg_f",
       "id": -173268128,
       "category": "Misc",
@@ -6419,13 +6419,6 @@
       "icon": "https://cdn.rusthelp.com/images/public/skullspikes.candles.png"
     },
     {
-      "name": "Skull Spikes (skullspikes)",
-      "shortname": "skullspikes",
-      "id": -1073015016,
-      "category": "Fun",
-      "icon": "https://cdn.rusthelp.com/images/public/skullspikes.png"
-    },
-    {
       "name": "Skull Spikes (skullspikes.pumpkin)",
       "shortname": "skullspikes.pumpkin",
       "id": -1078639462,
@@ -6433,18 +6426,18 @@
       "icon": "https://cdn.rusthelp.com/images/public/skullspikes.pumpkin.png"
     },
     {
+      "name": "Skull Spikes (skullspikes)",
+      "shortname": "skullspikes",
+      "id": -1073015016,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/skullspikes.png"
+    },
+    {
       "name": "Skull Trophy",
       "shortname": "skull.trophy.jar",
       "id": 971362526,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/skull.trophy.jar.png"
-    },
-    {
-      "name": "Skull Trophy (skull.trophy)",
-      "shortname": "skull.trophy",
-      "id": -769647921,
-      "category": "Fun",
-      "icon": "https://cdn.rusthelp.com/images/public/skull.trophy.png"
     },
     {
       "name": "Skull Trophy (skull.trophy.jar2)",
@@ -6459,6 +6452,13 @@
       "id": -156748077,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/skull.trophy.table.png"
+    },
+    {
+      "name": "Skull Trophy (skull.trophy)",
+      "shortname": "skull.trophy",
+      "id": -769647921,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/skull.trophy.png"
     },
     {
       "name": "Sky Lantern",

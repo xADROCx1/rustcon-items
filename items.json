@@ -1,10 +1,72 @@
 {
-  "version": "2026-06-04",
-  "updated": "2026-06-04T21:00:11.556Z",
+  "version": "2026-06-11",
+  "updated": "2026-06-11T21:26:18.360Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1185,
-  "added": [],
-  "removed": [],
+  "count": 1239,
+  "added": [
+    "workbench.upgrade.accelerated",
+    "component.box.ammo.large",
+    "component.box.armor.large",
+    "floor.ladder.hatch.toptier",
+    "floor.triangle.ladder.hatch.toptier",
+    "ballistic.helmet",
+    "ballistic.legarmor",
+    "ballistic.vest",
+    "base.half.shelves",
+    "base.horizontal.barrel",
+    "base.single.shelves",
+    "base.vertical.barrel",
+    "bdu.pants",
+    "bdu.shirt",
+    "crossbowbowless",
+    "bunny.suit",
+    "component.box.charcoal.large",
+    "component.box.clothing.large",
+    "workbench.upgrade.comfort",
+    "component.box.comps.large",
+    "workbench.upgrade.defensive",
+    "workbench.upgrade.efficiency",
+    "component.box.explosives.large",
+    "component.box.food.large",
+    "ammo.mortar.fragment",
+    "kickgems",
+    "component.box.guns.large",
+    "halfheight.industrial.shelves",
+    "industrial.autoturret",
+    "industrial.electric.furnace",
+    "industrial.garagedoor",
+    "industrial.storage.horizontal",
+    "industrial.storage.vertical",
+    "industrial.torch",
+    "wall.shallow.industrial.shelves",
+    "industrial.furnace.large",
+    "m16a2",
+    "component.box.meds.large",
+    "component.box.metal.large",
+    "mortar.deployable",
+    "ammo.mortar.basic",
+    "component.box.ore.large",
+    "workbench.upgrade.prototype",
+    "workbench.upgrade.range",
+    "workbench.upgrade.recyclebin",
+    "workbench.upgrade.reinforced",
+    "rustige_egg_h",
+    "workbench.upgrade.salvage",
+    "salvaged.industrial.shelves",
+    "component.box.scrap.large",
+    "component.box.stone.large",
+    "component.box.sulfur.large",
+    "workbench.upgrade.surplus",
+    "component.box.tools.large",
+    "generator.water",
+    "component.box.wood.large",
+    "discord.plushie"
+  ],
+  "removed": [
+    "habrepair",
+    "scraptransportheli.repair",
+    "twowaymirror.window"
+  ],
   "items": [
     {
       "name": "#50cal",
@@ -154,6 +216,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.diver.png"
     },
     {
+      "name": "Abyss Hazmat",
+      "shortname": "hazmatsuit.diver",
+      "id": -797592358,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/hazmatsuit.diver.png"
+    },
+    {
       "name": "Abyss Horizontal Storage Tank",
       "shortname": "abyss.barrel.horizontal",
       "id": -880494890,
@@ -175,13 +244,6 @@
       "icon": "https://cdn.rusthelp.com/images/public/diverpickaxe.png"
     },
     {
-      "name": "Abyss Pack",
-      "shortname": "hazmatsuit.diver",
-      "id": -797592358,
-      "category": "Attire",
-      "icon": "https://cdn.rusthelp.com/images/public/hazmatsuit.diver.png"
-    },
-    {
       "name": "Abyss Torch",
       "shortname": "divertorch",
       "id": 1846605708,
@@ -194,6 +256,13 @@
       "id": -919882824,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/abyss.barrel.vertical.png"
+    },
+    {
+      "name": "Accelerated Workbench Upgrade",
+      "shortname": "workbench.upgrade.accelerated",
+      "id": 798382300,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.accelerated.png"
     },
     {
       "name": "Acoustic Guitar",
@@ -294,6 +363,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/xmas.advent.png"
     },
     {
+      "name": "Ammo Storage Box",
+      "shortname": "component.box.ammo.large",
+      "id": -1593678393,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.ammo.large.png"
+    },
+    {
       "name": "Anchor",
       "shortname": "anchor",
       "id": 829641693,
@@ -357,6 +433,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/hazmatsuit.arcticsuit.png"
     },
     {
+      "name": "Armor Storage Box",
+      "shortname": "component.box.armor.large",
+      "id": 1254295946,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.armor.large.png"
+    },
+    {
       "name": "Armored Cockpit Vehicle Module",
       "shortname": "vehicle.1mod.cockpit.armored",
       "id": 1874610722,
@@ -378,11 +461,25 @@
       "icon": "https://cdn.rusthelp.com/images/public/door.double.hinged.toptier.png"
     },
     {
+      "name": "Armored Ladder Hatch",
+      "shortname": "floor.ladder.hatch.toptier",
+      "id": 607785075,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/floor.ladder.hatch.toptier.png"
+    },
+    {
       "name": "Armored Passenger Vehicle Module",
       "shortname": "vehicle.1mod.passengers.armored",
       "id": -1615281216,
       "category": "Component",
       "icon": "https://cdn.rusthelp.com/images/public/vehicle.1mod.passengers.armored.png"
+    },
+    {
+      "name": "Armored Triangle Ladder Hatch",
+      "shortname": "floor.triangle.ladder.hatch.toptier",
+      "id": -478923685,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/floor.triangle.ladder.hatch.toptier.png"
     },
     {
       "name": "Artist Canvas Large",
@@ -469,6 +566,27 @@
       "icon": "https://cdn.rusthelp.com/images/public/ballista.static.png"
     },
     {
+      "name": "Ballistic helmet",
+      "shortname": "ballistic.helmet",
+      "id": 1127732084,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/ballistic.helmet.png"
+    },
+    {
+      "name": "Ballistic leg armour",
+      "shortname": "ballistic.legarmor",
+      "id": 1983541158,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/ballistic.legarmor.png"
+    },
+    {
+      "name": "Ballistic vest",
+      "shortname": "ballistic.vest",
+      "id": -1780402255,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/ballistic.vest.png"
+    },
+    {
       "name": "Bamboo Barrel",
       "shortname": "bamboo.barrel",
       "id": -1652561344,
@@ -481,6 +599,13 @@
       "id": -2110553371,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/salvaged.bamboo.shelves.png"
+    },
+    {
+      "name": "Bamboo Wall Shelves",
+      "shortname": "single.shallow.wall.shelves",
+      "id": -193519904,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/single.shallow.wall.shelves.png"
     },
     {
       "name": "Bandage",
@@ -516,6 +641,34 @@
       "id": 1099314009,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/bbq.png"
+    },
+    {
+      "name": "Base half shelves",
+      "shortname": "base.half.shelves",
+      "id": -1024954624,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/base.half.shelves.png"
+    },
+    {
+      "name": "Base horizontal storage barrel",
+      "shortname": "base.horizontal.barrel",
+      "id": 655356057,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/base.horizontal.barrel.png"
+    },
+    {
+      "name": "Base single shelves",
+      "shortname": "base.single.shelves",
+      "id": -1695149731,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/base.single.shelves.png"
+    },
+    {
+      "name": "Base vertical storage barrel",
+      "shortname": "base.vertical.barrel",
+      "id": 2045583965,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/base.vertical.barrel.png"
     },
     {
       "name": "Baseball Bat",
@@ -642,6 +795,20 @@
       "id": 609049394,
       "category": "Resources",
       "icon": "https://cdn.rusthelp.com/images/public/battery.small.png"
+    },
+    {
+      "name": "BDU pants",
+      "shortname": "bdu.pants",
+      "id": 1468749025,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/bdu.pants.png"
+    },
+    {
+      "name": "BDU shirt",
+      "shortname": "bdu.shirt",
+      "id": -2127311451,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/bdu.shirt.png"
     },
     {
       "name": "Beach Chair",
@@ -1022,6 +1189,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/botabag.png"
     },
     {
+      "name": "Bowless Crossbow",
+      "shortname": "crossbowbowless",
+      "id": 2022157467,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/crossbowbowless.png"
+    },
+    {
       "name": "Bread Loaf",
       "shortname": "bread.loaf",
       "id": 281099360,
@@ -1055,6 +1229,13 @@
       "id": 104856514,
       "category": "Electrical",
       "icon": "https://cdn.rusthelp.com/images/public/electric.bulbstringlights.png"
+    },
+    {
+      "name": "Bunny Costume",
+      "shortname": "bunny.suit",
+      "id": 1285226495,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/bunny.suit.png"
     },
     {
       "name": "Bunny Ears",
@@ -1435,6 +1616,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/charcoal.png"
     },
     {
+      "name": "Charcoal Storage Box",
+      "shortname": "component.box.charcoal.large",
+      "id": 1884461210,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.charcoal.large.png"
+    },
+    {
       "name": "Chicken Coop",
       "shortname": "chickencoop",
       "id": -2018158920,
@@ -1540,6 +1728,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/mannequin.png"
     },
     {
+      "name": "Clothing Storage Box",
+      "shortname": "component.box.clothing.large",
+      "id": 1736620421,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.clothing.large.png"
+    },
+    {
       "name": "Clump of Latex Balloons",
       "shortname": "latexclumpballoon2025",
       "id": -1440443161,
@@ -1638,6 +1833,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/knife.combat.png"
     },
     {
+      "name": "Comfort Workbench Upgrade",
+      "shortname": "workbench.upgrade.comfort",
+      "id": -770390391,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.comfort.png"
+    },
+    {
       "name": "Command Block",
       "shortname": "command.block",
       "id": -1247485104,
@@ -1664,6 +1866,13 @@
       "id": 884424049,
       "category": "Weapon",
       "icon": "https://cdn.rusthelp.com/images/public/bow.compound.png"
+    },
+    {
+      "name": "Comps Storage Box",
+      "shortname": "component.box.comps.large",
+      "id": -413663149,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.comps.large.png"
     },
     {
       "name": "Computer Station",
@@ -1911,6 +2120,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/xmas.decoration.tinsel.png"
     },
     {
+      "name": "Defensive Workbench Upgrade",
+      "shortname": "workbench.upgrade.defensive",
+      "id": -1953279770,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.defensive.png"
+    },
+    {
       "name": "Deluxe Christmas Lights",
       "shortname": "xmas.lightstring.advanced",
       "id": -151387974,
@@ -2121,6 +2337,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/easterdoorwreath.png"
     },
     {
+      "name": "Efficiency Workbench Upgrade",
+      "shortname": "workbench.upgrade.efficiency",
+      "id": 1215602244,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.efficiency.png"
+    },
+    {
       "name": "Egg",
       "shortname": "egg",
       "id": 1858828593,
@@ -2238,6 +2461,13 @@
       "id": -592016202,
       "category": "Resources",
       "icon": "https://cdn.rusthelp.com/images/public/explosives.png"
+    },
+    {
+      "name": "Explosives Storage Box",
+      "shortname": "component.box.explosives.large",
+      "id": -1998423571,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.explosives.large.png"
     },
     {
       "name": "Extended Magazine",
@@ -2457,6 +2687,20 @@
       "icon": "https://cdn.rusthelp.com/images/public/fogmachine.png"
     },
     {
+      "name": "Food Storage Box",
+      "shortname": "component.box.food.large",
+      "id": 1023919015,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.food.large.png"
+    },
+    {
+      "name": "Fragmentation Mortar Shell",
+      "shortname": "ammo.mortar.fragment",
+      "id": -486432631,
+      "category": "Ammunition",
+      "icon": "https://cdn.rusthelp.com/images/public/ammo.mortar.fragment.png"
+    },
+    {
       "name": "Frankenstein Mask",
       "shortname": "frankensteinmask",
       "id": -1647389398,
@@ -2602,6 +2846,13 @@
       "id": 999690781,
       "category": "Tool",
       "icon": "https://cdn.rusthelp.com/images/public/geiger.counter.png"
+    },
+    {
+      "name": "Gems",
+      "shortname": "kickgems",
+      "id": -1622386500,
+      "category": "Resources",
+      "icon": "https://cdn.rusthelp.com/images/public/kickgems.png"
     },
     {
       "name": "Generic vehicle chassis",
@@ -2800,11 +3051,25 @@
       "icon": "https://cdn.rusthelp.com/images/public/gunpowder.png"
     },
     {
+      "name": "Guns Storage Box",
+      "shortname": "component.box.guns.large",
+      "id": -544295594,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.guns.large.png"
+    },
+    {
       "name": "Half Height Bamboo Shelves",
       "shortname": "half.bamboo.shelves",
       "id": -1923843855,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/half.bamboo.shelves.png"
+    },
+    {
+      "name": "Half Height Industrial Shelves",
+      "shortname": "halfheight.industrial.shelves",
+      "id": 786458957,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/halfheight.industrial.shelves.png"
     },
     {
       "name": "Halloween Candy",
@@ -3311,13 +3576,6 @@
       "icon": "https://cdn.rusthelp.com/images/public/hab.png"
     },
     {
-      "name": "Hot Air Balloon (habrepair)",
-      "shortname": "habrepair",
-      "id": -1759188988,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/habrepair.png"
-    },
-    {
       "name": "Hot Air Balloon Armor",
       "shortname": "hab.armor",
       "id": -1989600732,
@@ -3458,6 +3716,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/ammo.rocket.fire.png"
     },
     {
+      "name": "Industrial Auto Turret",
+      "shortname": "industrial.autoturret",
+      "id": -786398324,
+      "category": "Electrical",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.autoturret.png"
+    },
+    {
       "name": "Industrial Combiner",
       "shortname": "industrial.combiner",
       "id": 1538126328,
@@ -3486,6 +3751,20 @@
       "icon": "https://cdn.rusthelp.com/images/public/door.hinged.industrial.a.png"
     },
     {
+      "name": "Industrial Electric Furnace",
+      "shortname": "industrial.electric.furnace",
+      "id": 225892284,
+      "category": "Electrical",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.electric.furnace.png"
+    },
+    {
+      "name": "Industrial Garage Door",
+      "shortname": "industrial.garagedoor",
+      "id": 346569548,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.garagedoor.png"
+    },
+    {
       "name": "Industrial Splitter",
       "shortname": "industrial.splitter",
       "id": 742745918,
@@ -3493,11 +3772,39 @@
       "icon": "https://cdn.rusthelp.com/images/public/industrial.splitter.png"
     },
     {
+      "name": "Industrial Storage Horizontal Barrel",
+      "shortname": "industrial.storage.horizontal",
+      "id": -1019111952,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.storage.horizontal.png"
+    },
+    {
+      "name": "Industrial Storage Vertical Barrel",
+      "shortname": "industrial.storage.vertical",
+      "id": -883975138,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.storage.vertical.png"
+    },
+    {
+      "name": "Industrial Torch",
+      "shortname": "industrial.torch",
+      "id": 4474927,
+      "category": "Tool",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.torch.png"
+    },
+    {
       "name": "Industrial Wall Light",
       "shortname": "industrial.wall.light",
       "id": 1623701499,
       "category": "Electrical",
       "icon": "https://cdn.rusthelp.com/images/public/industrial.wall.light.png"
+    },
+    {
+      "name": "Industrial Wall Shelves",
+      "shortname": "wall.shallow.industrial.shelves",
+      "id": -265202949,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.shallow.industrial.shelves.png"
     },
     {
       "name": "Inner Tube",
@@ -3778,6 +4085,13 @@
       "id": 960673498,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/huntingtrophylarge.png"
+    },
+    {
+      "name": "Large Industrial Furnace",
+      "shortname": "industrial.furnace.large",
+      "id": 1868984394,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/industrial.furnace.large.png"
     },
     {
       "name": "Large Loot Bag",
@@ -4130,11 +4444,39 @@
       "icon": "https://cdn.rusthelp.com/images/public/spear.cny.png"
     },
     {
+      "name": "Lunar Wall Frame Inlay",
+      "shortname": "wall.frame.lunar2025_a",
+      "id": 1115193056,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_a.png"
+    },
+    {
+      "name": "Lunar Wall Frame Inlay (wall.frame.lunar2025_b)",
+      "shortname": "wall.frame.lunar2025_b",
+      "id": -450890885,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_b.png"
+    },
+    {
+      "name": "Lunar Wall Frame Inlay (wall.frame.lunar2025_c)",
+      "shortname": "wall.frame.lunar2025_c",
+      "id": -2016974826,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_c.png"
+    },
+    {
       "name": "M15 Semi-Automatic Pistol",
       "shortname": "pistol.semiauto.a.m15",
       "id": 1673224590,
       "category": "Weapon",
       "icon": "https://cdn.rusthelp.com/images/public/pistol.semiauto.a.m15.png"
+    },
+    {
+      "name": "M16A2",
+      "shortname": "m16a2",
+      "id": 599591861,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/m16a2.png"
     },
     {
       "name": "M249",
@@ -4333,6 +4675,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/sign.wooden.medium.png"
     },
     {
+      "name": "Meds Storage Box",
+      "shortname": "component.box.meds.large",
+      "id": -800824218,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.meds.large.png"
+    },
+    {
       "name": "Megaphone",
       "shortname": "megaphone",
       "id": -583379016,
@@ -4436,6 +4785,13 @@
       "id": -1021495308,
       "category": "Component",
       "icon": "https://cdn.rusthelp.com/images/public/metalspring.png"
+    },
+    {
+      "name": "Metal Storage Box",
+      "shortname": "component.box.metal.large",
+      "id": 1465782238,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.metal.large.png"
     },
     {
       "name": "Metal Vertical embrasure",
@@ -4597,6 +4953,20 @@
       "id": 1556365900,
       "category": "Weapon",
       "icon": "https://cdn.rusthelp.com/images/public/grenade.molotov.png"
+    },
+    {
+      "name": "Mortar",
+      "shortname": "mortar.deployable",
+      "id": 1459828804,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/mortar.deployable.png"
+    },
+    {
+      "name": "Mortar Shell",
+      "shortname": "ammo.mortar.basic",
+      "id": 963150711,
+      "category": "Ammunition",
+      "icon": "https://cdn.rusthelp.com/images/public/ammo.mortar.basic.png"
     },
     {
       "name": "Motorbike",
@@ -4830,6 +5200,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/seed.orchid.png"
     },
     {
+      "name": "Ore Storage Box",
+      "shortname": "component.box.ore.large",
+      "id": 992944937,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.ore.large.png"
+    },
+    {
       "name": "Ornate Frame large",
       "shortname": "goldframe.large",
       "id": -996235148,
@@ -4910,7 +5287,7 @@
       "name": "Paintable Reactive Target",
       "shortname": "paintabletarget.reactive",
       "id": -1039234836,
-      "category": "Misc",
+      "category": "Electrical",
       "icon": "https://cdn.rusthelp.com/images/public/paintabletarget.reactive.png"
     },
     {
@@ -5236,6 +5613,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/lumberjack.pickaxe.png"
     },
     {
+      "name": "Prototype Workbench Upgrade",
+      "shortname": "workbench.upgrade.prototype",
+      "id": -180862419,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.prototype.png"
+    },
+    {
       "name": "PT Boat",
       "shortname": "ptboat",
       "id": 1933140008,
@@ -5439,6 +5823,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/electric.random.switch.png"
     },
     {
+      "name": "Range Workbench Upgrade",
+      "shortname": "workbench.upgrade.range",
+      "id": 1470387662,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.range.png"
+    },
+    {
       "name": "Rat Mask",
       "shortname": "hat.ratmask",
       "id": 271048478,
@@ -5537,6 +5928,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/vehicle.1mod.rear.seats.png"
     },
     {
+      "name": "Recycle Bin Workbench Upgrade",
+      "shortname": "workbench.upgrade.recyclebin",
+      "id": -286541059,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.recyclebin.png"
+    },
+    {
       "name": "Red Berry",
       "shortname": "red.berry",
       "id": 1272194103,
@@ -5626,6 +6024,13 @@
       "id": 969768382,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/reinforced.wooden.shield.png"
+    },
+    {
+      "name": "Reinforced Workbench Upgrade",
+      "shortname": "workbench.upgrade.reinforced",
+      "id": 112268546,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.reinforced.png"
     },
     {
       "name": "Repair Bench",
@@ -5845,6 +6250,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/rug.png"
     },
     {
+      "name": "Rustigé Egg - Amethyst",
+      "shortname": "rustige_egg_h",
+      "id": -173268138,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/rustige_egg_h.png"
+    },
+    {
       "name": "Rustigé Egg - Blue",
       "shortname": "rustige_egg_b",
       "id": -173268132,
@@ -5922,6 +6334,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/water.salt.png"
     },
     {
+      "name": "Salvage Workbench Upgrade",
+      "shortname": "workbench.upgrade.salvage",
+      "id": -160105346,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.salvage.png"
+    },
+    {
       "name": "Salvaged Axe",
       "shortname": "axe.salvaged",
       "id": -262590403,
@@ -5955,6 +6374,13 @@
       "id": -1780802565,
       "category": "Tool",
       "icon": "https://cdn.rusthelp.com/images/public/icepick.salvaged.png"
+    },
+    {
+      "name": "Salvaged Industrial Shelves",
+      "shortname": "salvaged.industrial.shelves",
+      "id": -1018026008,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/salvaged.industrial.shelves.png"
     },
     {
       "name": "Salvaged Shelves",
@@ -6111,18 +6537,18 @@
       "icon": "https://cdn.rusthelp.com/images/public/scrapmirror.standing.png"
     },
     {
+      "name": "Scrap Storage Box",
+      "shortname": "component.box.scrap.large",
+      "id": 574701440,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.scrap.large.png"
+    },
+    {
       "name": "Scrap Transport Helicopter",
       "shortname": "scraptransportheli",
       "id": 375473148,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/scraptransportheli.png"
-    },
-    {
-      "name": "Scrap Transport Helicopter (scraptransportheli.repair)",
-      "shortname": "scraptransportheli.repair",
-      "id": -1884328185,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/scraptransportheli.repair.png"
     },
     {
       "name": "Search Light",
@@ -6354,13 +6780,6 @@
       "id": -430416124,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/plantpot.single.png"
-    },
-    {
-      "name": "Single Shallow Wall Shelves",
-      "shortname": "single.shallow.wall.shelves",
-      "id": -193519904,
-      "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/single.shallow.wall.shelves.png"
     },
     {
       "name": "Single Sign Post",
@@ -7070,6 +7489,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/spear.stone.png"
     },
     {
+      "name": "Stone Storage Box",
+      "shortname": "component.box.stone.large",
+      "id": 94971664,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.stone.large.png"
+    },
+    {
       "name": "Stones",
       "shortname": "stones",
       "id": -2099697608,
@@ -7138,6 +7564,13 @@
       "id": -1157596551,
       "category": "Resources",
       "icon": "https://cdn.rusthelp.com/images/public/sulfur.ore.png"
+    },
+    {
+      "name": "Sulfur Storage Box",
+      "shortname": "component.box.sulfur.large",
+      "id": -10594280,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.sulfur.large.png"
     },
     {
       "name": "Sunflower",
@@ -7243,6 +7676,13 @@
       "id": -1785231475,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/halloween.surgeonsuit.png"
+    },
+    {
+      "name": "Surplus Workbench Upgrade",
+      "shortname": "workbench.upgrade.surplus",
+      "id": -1536343135,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/workbench.upgrade.surplus.png"
     },
     {
       "name": "Survey Charge",
@@ -7427,6 +7867,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/cupboard.tool.png"
     },
     {
+      "name": "Tools Storage Box",
+      "shortname": "component.box.tools.large",
+      "id": 679690962,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.tools.large.png"
+    },
+    {
       "name": "Torch",
       "shortname": "torch",
       "id": 795236088,
@@ -7574,13 +8021,6 @@
       "icon": "https://cdn.rusthelp.com/images/public/sign.post.town.roof.png"
     },
     {
-      "name": "Two-Way Mirror",
-      "shortname": "twowaymirror.window",
-      "id": -1683726934,
-      "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/twowaymirror.window.png"
-    },
-    {
       "name": "Unused Storage Barrel Vertical",
       "shortname": "storage_barrel_a",
       "id": -258457936,
@@ -7656,27 +8096,6 @@
       "id": 656829501,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/electric.wallcabinet.png"
-    },
-    {
-      "name": "Wall Divider Pack",
-      "shortname": "wall.frame.lunar2025_a",
-      "id": 1115193056,
-      "category": "Construction",
-      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_a.png"
-    },
-    {
-      "name": "Wall Divider Pack (wall.frame.lunar2025_b)",
-      "shortname": "wall.frame.lunar2025_b",
-      "id": -450890885,
-      "category": "Construction",
-      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_b.png"
-    },
-    {
-      "name": "Wall Divider Pack (wall.frame.lunar2025_c)",
-      "shortname": "wall.frame.lunar2025_c",
-      "id": -2016974826,
-      "category": "Construction",
-      "icon": "https://cdn.rusthelp.com/images/public/wall.frame.lunar2025_c.png"
     },
     {
       "name": "Wallpaper Ceiling",
@@ -7796,6 +8215,13 @@
       "id": 2114754781,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/water.purifier.png"
+    },
+    {
+      "name": "Water Wheel",
+      "shortname": "generator.water",
+      "id": -379403794,
+      "category": "Electrical",
+      "icon": "https://cdn.rusthelp.com/images/public/generator.water.png"
     },
     {
       "name": "Waterpipe Shotgun",
@@ -8085,6 +8511,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/box.wooden.png"
     },
     {
+      "name": "Wood Storage Box (component.box.wood.large)",
+      "shortname": "component.box.wood.large",
+      "id": 1044081720,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/component.box.wood.large.png"
+    },
+    {
       "name": "Wooden Armor Insert",
       "shortname": "clothing.mod.armorinsert_wood",
       "id": -593892112,
@@ -8237,6 +8670,13 @@
       "id": 1094293920,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/wrappingpaper.png"
+    },
+    {
+      "name": "Wumpus Plush",
+      "shortname": "discord.plushie",
+      "id": -1800102806,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/discord.plushie.png"
     },
     {
       "name": "XL Picture Frame",

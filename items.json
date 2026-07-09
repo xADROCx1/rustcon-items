@@ -1,9 +1,14 @@
 {
-  "version": "2026-07-02",
-  "updated": "2026-07-02T20:23:03.945Z",
+  "version": "2026-07-09",
+  "updated": "2026-07-09T20:51:09.541Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1239,
-  "added": [],
+  "count": 1243,
+  "added": [
+    "apartment.master_key",
+    "charity.plushy.04",
+    "charity.plushie.05",
+    "charity.plushy.03"
+  ],
   "removed": [],
   "items": [
     {
@@ -341,6 +346,13 @@
       "id": -1432674913,
       "category": "Medical",
       "icon": "https://cdn.rusthelp.com/images/public/antiradpills.png"
+    },
+    {
+      "name": "Apartment Key",
+      "shortname": "apartment.master_key",
+      "id": 1664052604,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/apartment.master_key.png"
     },
     {
       "name": "Apple",
@@ -1363,6 +1375,13 @@
       "id": -1379036069,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/fun.tambourine.png"
+    },
+    {
+      "name": "Cancer Research UK 2026 Plushie",
+      "shortname": "charity.plushy.04",
+      "id": 2130820927,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.04.png"
     },
     {
       "name": "Cancer Research UK Plushie",
@@ -3533,6 +3552,13 @@
       "id": 996293980,
       "category": "Resources",
       "icon": "https://cdn.rusthelp.com/images/public/skull.human.png"
+    },
+    {
+      "name": "Humane World Charity 2026 Plushie",
+      "shortname": "charity.plushie.05",
+      "id": 374496151,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/charity.plushie.05.png"
     },
     {
       "name": "Hunters Pie",
@@ -6116,6 +6142,13 @@
       "id": -1863063690,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/rockingchair.png"
+    },
+    {
+      "name": "Ronald McDonald House UK 2026 Plushie",
+      "shortname": "charity.plushy.03",
+      "id": 2130820934,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.03.png"
     },
     {
       "name": "Ronald McDonald House UK Plushie",

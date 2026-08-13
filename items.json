@@ -1,9 +1,26 @@
 {
-  "version": "2026-08-07",
-  "updated": "2026-08-07T00:42:39.083Z",
+  "version": "2026-08-13",
+  "updated": "2026-08-13T19:57:21.823Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1243,
-  "added": [],
+  "count": 1259,
+  "added": [
+    "2module.car",
+    "2module.car.chassis",
+    "3module.car",
+    "3module.car.chassis",
+    "4module.car",
+    "4module.car.chassis",
+    "gamesroom.minifridge",
+    "gamesroom.shotgun.trap",
+    "dartboard",
+    "fuse.highgrade",
+    "jukebox",
+    "bar.stool.metal",
+    "pooltable",
+    "sculpture.rock",
+    "thruster.module",
+    "bar.stool.wood"
+  ],
   "removed": [],
   "items": [
     {
@@ -63,11 +80,25 @@
       "icon": "https://cdn.rusthelp.com/images/public/2module%20car.png"
     },
     {
+      "name": "2 Module Car (2module.car)",
+      "shortname": "2module.car",
+      "id": -866121090,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/2module.car.png"
+    },
+    {
       "name": "2 Module Car Chassis",
       "shortname": "2module car chassis",
       "id": -226151558,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/2module%20car%20chassis.png"
+    },
+    {
+      "name": "2 Module Car Chassis (2module.car.chassis)",
+      "shortname": "2module.car.chassis",
+      "id": -226151558,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/2module.car.chassis.png"
     },
     {
       "name": "3 Module Car",
@@ -77,11 +108,25 @@
       "icon": "https://cdn.rusthelp.com/images/public/3module%20car.png"
     },
     {
+      "name": "3 Module Car (3module.car)",
+      "shortname": "3module.car",
+      "id": -831725027,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/3module.car.png"
+    },
+    {
       "name": "3 Module Car Chassis",
       "shortname": "3module car chassis",
       "id": 1482871705,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/3module%20car%20chassis.png"
+    },
+    {
+      "name": "3 Module Car Chassis (3module.car.chassis)",
+      "shortname": "3module.car.chassis",
+      "id": 1482871705,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/3module.car.chassis.png"
     },
     {
       "name": "4 Module Car",
@@ -91,11 +136,25 @@
       "icon": "https://cdn.rusthelp.com/images/public/4module%20car.png"
     },
     {
+      "name": "4 Module Car (4module.car)",
+      "shortname": "4module.car",
+      "id": -935322684,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/4module.car.png"
+    },
+    {
       "name": "4 Module Car Chassis",
       "shortname": "4module car chassis",
       "id": 385099196,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/4module%20car%20chassis.png"
+    },
+    {
+      "name": "4 Module Car Chassis (4module.car.chassis)",
+      "shortname": "4module.car.chassis",
+      "id": 385099196,
+      "category": "Misc",
+      "icon": "https://cdn.rusthelp.com/images/public/4module.car.chassis.png"
     },
     {
       "name": "40mm HE Grenade",
@@ -299,6 +358,13 @@
       "id": -2027793839,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/xmas.advent.png"
+    },
+    {
+      "name": "Aiming Module",
+      "shortname": "aiming.module.mlrs",
+      "id": 343045591,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/aiming.module.mlrs.png"
     },
     {
       "name": "Ammo Storage Box",
@@ -572,6 +638,20 @@
       "id": -1622110948,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/attire.banditguard.png"
+    },
+    {
+      "name": "Bar Games Minifridge",
+      "shortname": "gamesroom.minifridge",
+      "id": 352442426,
+      "category": "Electrical",
+      "icon": "https://cdn.rusthelp.com/images/public/gamesroom.minifridge.png"
+    },
+    {
+      "name": "Bar Games Shotgun Trap",
+      "shortname": "gamesroom.shotgun.trap",
+      "id": 399522257,
+      "category": "Traps",
+      "icon": "https://cdn.rusthelp.com/images/public/gamesroom.shotgun.trap.png"
     },
     {
       "name": "Barbed Wooden Barricade",
@@ -2037,6 +2117,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/smg.2.png"
     },
     {
+      "name": "Dart Board",
+      "shortname": "dartboard",
+      "id": -872679147,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/dartboard.png"
+    },
+    {
       "name": "Decorative Baubels",
       "shortname": "xmas.decoration.baubels",
       "id": -1667224349,
@@ -2604,6 +2691,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/floor.triangle.grill.png"
     },
     {
+      "name": "Flooring",
+      "shortname": "wallpaper.flooring",
+      "id": -551431036,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/wallpaper.flooring.png"
+    },
+    {
       "name": "Fluid Combiner",
       "shortname": "fluid.combiner",
       "id": -265292885,
@@ -3148,6 +3242,13 @@
       "id": 1614528785,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/frankensteins.monster.03.torso.png"
+    },
+    {
+      "name": "Heavy Fuse",
+      "shortname": "fuse.highgrade",
+      "id": -945548410,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/fuse.highgrade.png"
     },
     {
       "name": "Heavy Plate Helmet",
@@ -3834,6 +3935,13 @@
       "id": -979951147,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/fun.jerrycanguitar.png"
+    },
+    {
+      "name": "Jukebox",
+      "shortname": "jukebox",
+      "id": -1018085504,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/jukebox.png"
     },
     {
       "name": "Jumpsuit",
@@ -4662,6 +4770,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/clothing.mod.armorinsert_metal.png"
     },
     {
+      "name": "Metal Bar Stool",
+      "shortname": "bar.stool.metal",
+      "id": -1639742441,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/bar.stool.metal.png"
+    },
+    {
       "name": "Metal Barricade",
       "shortname": "barricade.metal",
       "id": 1655650836,
@@ -4877,13 +4992,6 @@
       "id": -1449152644,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/mlrs.png"
-    },
-    {
-      "name": "MLRS Aiming Module",
-      "shortname": "aiming.module.mlrs",
-      "id": 343045591,
-      "category": "Component",
-      "icon": "https://cdn.rusthelp.com/images/public/aiming.module.mlrs.png"
     },
     {
       "name": "MLRS Rocket",
@@ -5451,6 +5559,13 @@
       "id": -1651220691,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/pookie.bear.png"
+    },
+    {
+      "name": "Pool Table",
+      "shortname": "pooltable",
+      "id": -1748166144,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/pooltable.png"
     },
     {
       "name": "Pork Pie",
@@ -7448,6 +7563,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/stone.pickaxe.png"
     },
     {
+      "name": "Stone Sculpture",
+      "shortname": "sculpture.rock",
+      "id": 1852905808,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/sculpture.rock.png"
+    },
+    {
       "name": "Stone Spear",
       "shortname": "spear.stone",
       "id": 1602646136,
@@ -7791,6 +7913,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/smg.thompson.png"
     },
     {
+      "name": "Thruster Module",
+      "shortname": "thruster.module",
+      "id": 1754952075,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/thruster.module.png"
+    },
+    {
       "name": "Tiger Mask",
       "shortname": "hat.tigermask",
       "id": 709206314,
@@ -8064,6 +8193,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/electric.wallcabinet.png"
     },
     {
+      "name": "Wallpaper",
+      "shortname": "wallpaper.wall",
+      "id": 553967074,
+      "category": "Tool",
+      "icon": "https://cdn.rusthelp.com/images/public/wallpaper.wall.png"
+    },
+    {
       "name": "Wallpaper Ceiling",
       "shortname": "wallpaper.ceiling",
       "id": 1730664641,
@@ -8071,25 +8207,11 @@
       "icon": "https://cdn.rusthelp.com/images/public/wallpaper.ceiling.png"
     },
     {
-      "name": "Wallpaper Flooring",
-      "shortname": "wallpaper.flooring",
-      "id": -551431036,
-      "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/wallpaper.flooring.png"
-    },
-    {
       "name": "Wallpaper Tool",
       "shortname": "wallpaper.tool",
       "id": 1629564540,
       "category": "Tool",
       "icon": "https://cdn.rusthelp.com/images/public/wallpaper.tool.png"
-    },
-    {
-      "name": "Wallpaper Wall",
-      "shortname": "wallpaper.wall",
-      "id": 553967074,
-      "category": "Tool",
-      "icon": "https://cdn.rusthelp.com/images/public/wallpaper.wall.png"
     },
     {
       "name": "Wanted Poster",
@@ -8496,6 +8618,13 @@
       "id": -1234735557,
       "category": "Ammunition",
       "icon": "https://cdn.rusthelp.com/images/public/arrow.wooden.png"
+    },
+    {
+      "name": "Wooden Bar Stool",
+      "shortname": "bar.stool.wood",
+      "id": -1444366079,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/bar.stool.wood.png"
     },
     {
       "name": "Wooden Barricade",

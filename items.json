@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-28",
-  "updated": "2026-08-28T03:31:47.924Z",
+  "version": "2026-08-31",
+  "updated": "2026-08-31T19:21:54.749Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
   "count": 1259,
   "added": [],
@@ -655,28 +655,28 @@
       "shortname": "base.half.shelves",
       "id": -1024954624,
       "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/base.half.shelves.png"
+      "icon": "https://cdn.rusthelp.com/images/public/shelves.png"
     },
     {
       "name": "Base horizontal storage barrel",
       "shortname": "base.horizontal.barrel",
       "id": 655356057,
       "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/base.horizontal.barrel.png"
+      "icon": "https://cdn.rusthelp.com/images/public/water.barrel.png"
     },
     {
       "name": "Base single shelves",
       "shortname": "base.single.shelves",
       "id": -1695149731,
       "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/base.single.shelves.png"
+      "icon": "https://cdn.rusthelp.com/images/public/shelves.png"
     },
     {
       "name": "Base vertical storage barrel",
       "shortname": "base.vertical.barrel",
       "id": 2045583965,
       "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/base.vertical.barrel.png"
+      "icon": "https://cdn.rusthelp.com/images/public/water.barrel.png"
     },
     {
       "name": "Baseball Bat",
@@ -795,7 +795,7 @@
       "shortname": "batteringram.head.repair",
       "id": -479314201,
       "category": "Weapon",
-      "icon": "https://cdn.rusthelp.com/images/public/batteringram.head.repair.png"
+      "icon": "https://cdn.rusthelp.com/images/public/batteringram.png"
     },
     {
       "name": "Battery - Small",
@@ -2888,14 +2888,14 @@
       "shortname": "vehicle.chassis",
       "id": 1770744540,
       "category": "Component",
-      "icon": "https://cdn.rusthelp.com/images/public/vehicle.chassis.png"
+      "icon": "https://cdn.rusthelp.com/images/public/2module%20car%20chassis.png"
     },
     {
       "name": "Generic vehicle module",
       "shortname": "vehicle.module",
       "id": 878301596,
       "category": "Component",
-      "icon": "https://cdn.rusthelp.com/images/public/vehicle.module.png"
+      "icon": "https://cdn.rusthelp.com/images/public/vehicle.1mod.cockpit.png"
     },
     {
       "name": "Ghost Costume",
@@ -4939,7 +4939,7 @@
       "shortname": "minigunammopack",
       "id": 355877490,
       "category": "Attire",
-      "icon": "https://cdn.rusthelp.com/images/public/minigunammopack.png"
+      "icon": "https://cdn.rusthelp.com/images/public/minigun.png"
     },
     {
       "name": "Mining Quarry",
@@ -5415,7 +5415,7 @@
       "shortname": "parachute.deployed",
       "id": 1784005657,
       "category": "Attire",
-      "icon": "https://cdn.rusthelp.com/images/public/parachute.deployed.png"
+      "icon": "https://cdn.rusthelp.com/images/public/parachute.png"
     },
     {
       "name": "Party Hat",

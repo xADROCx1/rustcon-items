@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "update": "node scripts/scrape-items.js",
+    "validate": "node scripts/validate-items.js"
+  }
+}

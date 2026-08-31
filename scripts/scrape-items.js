@@ -5,7 +5,7 @@
  * Pulls the latest Rust item list from SzyMig/Rust-item-list-JSON (community-
  * maintained mirror of Facepunch's items directory) and writes items.json.
  *
- * Runs monthly from .github/workflows/update-items.yml, but can also be run
+ * Runs weekly from .github/workflows/update-items.yml, but can also be run
  * locally:  node scripts/scrape-items.js
  *
  * If the SzyMig source goes stale we can swap SOURCE_URL for any other raw
@@ -19,6 +19,21 @@ const https = require('https');
 const SOURCE_URL = 'https://raw.githubusercontent.com/SzyMig/Rust-item-list-JSON/main/Rust-Items.json';
 const ICON_BASE  = 'https://cdn.rusthelp.com/images/public/';
 const OUT_PATH   = path.join(__dirname, '..', 'items.json');
+
+// Some internal/variant item shortnames do not have their own CDN artwork.
+// Map them to the closest stable public-item image so the app never renders a
+// broken icon. Keep this list small and verify it with `npm run validate`.
+const ICON_SHORTNAME_OVERRIDES = {
+  'base.vertical.barrel': 'water.barrel',
+  'base.horizontal.barrel': 'water.barrel',
+  'base.half.shelves': 'shelves',
+  'base.single.shelves': 'shelves',
+  'batteringram.head.repair': 'batteringram',
+  'vehicle.module': 'vehicle.1mod.cockpit',
+  'vehicle.chassis': '2module car chassis',
+  'minigunammopack': 'minigun',
+  'parachute.deployed': 'parachute'
+};
 
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
@@ -55,7 +70,7 @@ function buildItems(src) {
       shortname: sh,
       id: it.itemid,
       category: it.Category || it.category || null,
-      icon: ICON_BASE + encodeURIComponent(sh) + '.png'
+      icon: ICON_BASE + encodeURIComponent(ICON_SHORTNAME_OVERRIDES[sh] || sh) + '.png'
     });
   }
 

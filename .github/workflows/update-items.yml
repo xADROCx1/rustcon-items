@@ -19,7 +19,10 @@ jobs:
           node-version: '20'
 
       - name: Run scraper
-        run: node scripts/scrape-items.js
+        run: npm run update
+
+      - name: Validate catalog and icon URLs
+        run: npm run validate
 
       - name: Commit updated items.json
         run: |

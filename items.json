@@ -1,9 +1,17 @@
 {
-  "version": "2026-09-03",
-  "updated": "2026-09-03T21:36:22.161Z",
+  "version": "2026-09-10",
+  "updated": "2026-09-10T21:30:53.014Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1259,
-  "added": [],
+  "count": 1266,
+  "added": [
+    "rifle.ak.glass",
+    "rifle.ak.glass.green",
+    "rifle.ak.glass.pink",
+    "rifle.ak.glass.red",
+    "rifle.ak.glass.blue",
+    "medical.honey.bandage",
+    "firework.boomer.white"
+  ],
   "removed": [],
   "items": [
     {
@@ -2079,6 +2087,41 @@
       "icon": "https://cdn.rusthelp.com/images/public/crude.oil.png"
     },
     {
+      "name": "Crystal Assault Rifle Diamond",
+      "shortname": "rifle.ak.glass",
+      "id": -1920964108,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.glass.png"
+    },
+    {
+      "name": "Crystal Assault Rifle Emerald",
+      "shortname": "rifle.ak.glass.green",
+      "id": -75136407,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.glass.green.png"
+    },
+    {
+      "name": "Crystal Assault Rifle Pink Diamond",
+      "shortname": "rifle.ak.glass.pink",
+      "id": -1795386514,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.glass.pink.png"
+    },
+    {
+      "name": "Crystal Assault Rifle Ruby",
+      "shortname": "rifle.ak.glass.red",
+      "id": -1045971123,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.glass.red.png"
+    },
+    {
+      "name": "Crystal Assault Rifle Sapphire",
+      "shortname": "rifle.ak.glass.blue",
+      "id": -1156572922,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/rifle.ak.glass.blue.png"
+    },
+    {
       "name": "Cultist Deer Torch",
       "shortname": "torch.torch.skull",
       "id": -1175656359,
@@ -3969,7 +4012,7 @@
       "icon": "https://cdn.rusthelp.com/images/public/lock.key.png"
     },
     {
-      "name": "Kick Hazmat",
+      "name": "KICK Hazmat",
       "shortname": "hazmatsuit.kick",
       "id": 972302244,
       "category": "Attire",
@@ -4578,6 +4621,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/mailbox.png"
     },
     {
+      "name": "Medical Honey Bandage",
+      "shortname": "medical.honey.bandage",
+      "id": -75264812,
+      "category": "Medical",
+      "icon": "https://cdn.rusthelp.com/images/public/medical.honey.bandage.png"
+    },
+    {
       "name": "Medical Syringe",
       "shortname": "syringe.medical",
       "id": 1079279582,
@@ -4585,7 +4635,7 @@
       "icon": "https://cdn.rusthelp.com/images/public/syringe.medical.png"
     },
     {
-      "name": "Medieval AR",
+      "name": "Medieval Assault Rifle",
       "shortname": "rifle.ak.med",
       "id": 472505338,
       "category": "Weapon",
@@ -8405,6 +8455,13 @@
       "id": -992286106,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/seed.white.berry.png"
+    },
+    {
+      "name": "White Boomer",
+      "shortname": "firework.boomer.white",
+      "id": -18034684,
+      "category": "Fun",
+      "icon": "https://cdn.rusthelp.com/images/public/firework.boomer.white.png"
     },
     {
       "name": "White ID Tag",

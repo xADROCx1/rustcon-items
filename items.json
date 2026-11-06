@@ -1,31 +1,85 @@
 {
-  "version": "2026-10-22",
-  "updated": "2026-10-22T22:12:57.237Z",
+  "version": "2026-11-05",
+  "updated": "2026-11-05T23:59:47.568Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1266,
-  "added": [],
+  "count": 1319,
+  "added": [
+    "barricade.sandbags.half",
+    "barricade.sandbags.pillbox",
+    "barricade.sandbags.three.quarter",
+    "alien.costume",
+    "wall.animal.fence",
+    "wall.animal.fence.gate",
+    "pie.beef",
+    "generator.biofuel",
+    "bread.brioche.loaf",
+    "beefmeat.cooked",
+    "muttonmeat.cooked",
+    "cream",
+    "radiationresisttea.pure.creamy",
+    "purecoolingtea.creamy",
+    "pureharvestingtea.creamy",
+    "healingtea.pure.creamy",
+    "maxhealthtea.pure.creamy",
+    "oretea.pure.creamy",
+    "scraptea.pure.creamy",
+    "purewarmingtea.creamy",
+    "woodtea.pure.creamy",
+    "halloween.string.lights",
+    "halloweenwreath",
+    "milk",
+    "radiationresisttea.pure.milky",
+    "purecoolingtea.milky",
+    "pureharvestingtea.milky",
+    "healingtea.pure.milky",
+    "maxhealthtea.pure.milky",
+    "oretea.pure.milky",
+    "scraptea.pure.milky",
+    "purewarmingtea.milky",
+    "woodtea.pure.milky",
+    "hazmat.plague",
+    "beefmeat",
+    "muttonmeat",
+    "pie.apple.rich",
+    "pie.bear.rich",
+    "pie.beef.rich",
+    "pie.bigcat.rich",
+    "pie.chicken.rich",
+    "pie.fish.rich",
+    "pie.hunters.rich",
+    "pie.pork.rich",
+    "pie.pumpkin.rich",
+    "pie.mutton.rich",
+    "pie.mutton",
+    "skimmedmilk",
+    "tunalight.skull",
+    "beefmeat.spoiled",
+    "muttonmeat.spoiled",
+    "wool",
+    "discord.zombie.plushie"
+  ],
   "removed": [],
   "items": [
     {
-      "name": "#50cal",
-      "shortname": "50cal.mounted",
-      "id": 162882477,
-      "category": "Weapon",
-      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.png"
+      "name": "#barricade.sandbags.half",
+      "shortname": "barricade.sandbags.half",
+      "id": -219005627,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/barricade.sandbags.half.png"
     },
     {
-      "name": "#50cal (50cal.mounted.left)",
-      "shortname": "50cal.mounted.left",
-      "id": -1467876094,
-      "category": "Weapon",
-      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.left.png"
+      "name": "#barricade.sandbags.pillbox",
+      "shortname": "barricade.sandbags.pillbox",
+      "id": -1088645302,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/barricade.sandbags.pillbox.png"
     },
     {
-      "name": "#50cal (50cal.mounted.right)",
-      "shortname": "50cal.mounted.right",
-      "id": 1248383659,
-      "category": "Weapon",
-      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.right.png"
+      "name": "#barricade.sandbags.three.quarter",
+      "shortname": "barricade.sandbags.three.quarter",
+      "id": 2141654944,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/barricade.sandbags.three.quarter.png"
     },
     {
       "name": "#clothingmannequin",
@@ -166,6 +220,13 @@
       "id": -1211166256,
       "category": "Ammunition",
       "icon": "https://cdn.rusthelp.com/images/public/ammo.rifle.png"
+    },
+    {
+      "name": "50 Cal Turret",
+      "shortname": "50cal.mounted",
+      "id": 162882477,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.png"
     },
     {
       "name": "8x Zoom Scope",
@@ -350,6 +411,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/aiming.module.mlrs.png"
     },
     {
+      "name": "Alien Costume",
+      "shortname": "alien.costume",
+      "id": 1930628359,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/alien.costume.png"
+    },
+    {
       "name": "Ammo Storage Box",
       "shortname": "component.box.ammo.large",
       "id": -1593678393,
@@ -383,6 +451,20 @@
       "id": -1018587433,
       "category": "Resources",
       "icon": "https://cdn.rusthelp.com/images/public/fat.animal.png"
+    },
+    {
+      "name": "Animal Fence",
+      "shortname": "wall.animal.fence",
+      "id": -1814195745,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.animal.fence.png"
+    },
+    {
+      "name": "Animal Fence Gate",
+      "shortname": "wall.animal.fence.gate",
+      "id": 1143376304,
+      "category": "Construction",
+      "icon": "https://cdn.rusthelp.com/images/public/wall.animal.fence.gate.png"
     },
     {
       "name": "Anti-Radiation Pills",
@@ -889,6 +971,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/grenade.bee.png"
     },
     {
+      "name": "Beef Pie",
+      "shortname": "pie.beef",
+      "id": 782269436,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.beef.png"
+    },
+    {
       "name": "Beehive",
       "shortname": "beehive",
       "id": 184516676,
@@ -929,6 +1018,13 @@
       "id": -1262185308,
       "category": "Tool",
       "icon": "https://cdn.rusthelp.com/images/public/tool.binoculars.png"
+    },
+    {
+      "name": "Biofuel Generator",
+      "shortname": "generator.biofuel",
+      "id": -1661343913,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/generator.biofuel.png"
     },
     {
       "name": "Birthday Cake",
@@ -1209,6 +1305,13 @@
       "id": 281099360,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/bread.loaf.png"
+    },
+    {
+      "name": "Brioche Bread",
+      "shortname": "bread.brioche.loaf",
+      "id": -909588488,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/bread.brioche.loaf.png"
     },
     {
       "name": "Bronze Egg",
@@ -1939,6 +2042,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/bearmeat.cooked.png"
     },
     {
+      "name": "Cooked Beef",
+      "shortname": "beefmeat.cooked",
+      "id": 718346230,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/beefmeat.cooked.png"
+    },
+    {
       "name": "Cooked Big Cat Meat",
       "shortname": "bigcatmeat.cooked",
       "id": -1318837358,
@@ -1986,6 +2096,13 @@
       "id": 1536610005,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/humanmeat.cooked.png"
+    },
+    {
+      "name": "Cooked Mutton",
+      "shortname": "muttonmeat.cooked",
+      "id": -319133397,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/muttonmeat.cooked.png"
     },
     {
       "name": "Cooked Pork",
@@ -2056,6 +2173,76 @@
       "id": 1189981699,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/cratecostume.png"
+    },
+    {
+      "name": "Cream",
+      "shortname": "cream",
+      "id": 1185218972,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/cream.png"
+    },
+    {
+      "name": "Creamy Pure Anti-Rad Tea",
+      "shortname": "radiationresisttea.pure.creamy",
+      "id": -1882497808,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/radiationresisttea.pure.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Cooling Tea",
+      "shortname": "purecoolingtea.creamy",
+      "id": 1527700610,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/purecoolingtea.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Harvesting Tea",
+      "shortname": "pureharvestingtea.creamy",
+      "id": -1661676046,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pureharvestingtea.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Healing Tea",
+      "shortname": "healingtea.pure.creamy",
+      "id": -132349657,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/healingtea.pure.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Max Health Tea",
+      "shortname": "maxhealthtea.pure.creamy",
+      "id": -1244746477,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/maxhealthtea.pure.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Ore Tea",
+      "shortname": "oretea.pure.creamy",
+      "id": -744942541,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/oretea.pure.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Scrap Tea",
+      "shortname": "scraptea.pure.creamy",
+      "id": 1519395656,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/scraptea.pure.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Warming Tea",
+      "shortname": "purewarmingtea.creamy",
+      "id": 556232090,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/purewarmingtea.creamy.png"
+    },
+    {
+      "name": "Creamy Pure Wood Tea",
+      "shortname": "woodtea.pure.creamy",
+      "id": -844428380,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/woodtea.pure.creamy.png"
     },
     {
       "name": "Crocodile Pie",
@@ -2373,11 +2560,32 @@
       "icon": "https://cdn.rusthelp.com/images/public/dropbox.png"
     },
     {
+      "name": "Dual 50 Cal Turret",
+      "shortname": "50cal.mounted.left",
+      "id": -1467876094,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.left.png"
+    },
+    {
+      "name": "Dual 50 Cal Turret (50cal.mounted.right)",
+      "shortname": "50cal.mounted.right",
+      "id": 1248383659,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/50cal.mounted.right.png"
+    },
+    {
       "name": "Duct Tape",
       "shortname": "ducttape",
       "id": 1401987718,
       "category": "Component",
       "icon": "https://cdn.rusthelp.com/images/public/ducttape.png"
+    },
+    {
+      "name": "Dung",
+      "shortname": "horsedung",
+      "id": -1579932985,
+      "category": "Resources",
+      "icon": "https://cdn.rusthelp.com/images/public/horsedung.png"
     },
     {
       "name": "Duo Submarine",
@@ -3027,7 +3235,7 @@
       "name": "Graveyard Fence",
       "shortname": "wall.graveyard.fence",
       "id": -1679267738,
-      "category": "Misc",
+      "category": "Construction",
       "icon": "https://cdn.rusthelp.com/images/public/wall.graveyard.fence.png"
     },
     {
@@ -3141,6 +3349,20 @@
       "id": -888153050,
       "category": "Misc",
       "icon": "https://cdn.rusthelp.com/images/public/halloween.candy.png"
+    },
+    {
+      "name": "Halloween String Lights",
+      "shortname": "halloween.string.lights",
+      "id": 139776459,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/halloween.string.lights.png"
+    },
+    {
+      "name": "Halloween Wreath",
+      "shortname": "halloweenwreath",
+      "id": 1174330346,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/halloweenwreath.png"
     },
     {
       "name": "Hammer",
@@ -3610,13 +3832,6 @@
       "id": 1420547167,
       "category": "Attire",
       "icon": "https://cdn.rusthelp.com/images/public/horse.costume.png"
-    },
-    {
-      "name": "Horse Dung",
-      "shortname": "horsedung",
-      "id": -1579932985,
-      "category": "Resources",
-      "icon": "https://cdn.rusthelp.com/images/public/horsedung.png"
     },
     {
       "name": "Horse Mask",
@@ -4928,6 +5143,76 @@
       "icon": "https://cdn.rusthelp.com/images/public/weapon.mod.silencer.png"
     },
     {
+      "name": "Milk",
+      "shortname": "milk",
+      "id": 325350919,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/milk.png"
+    },
+    {
+      "name": "Milky Pure Anti-Rad Tea",
+      "shortname": "radiationresisttea.pure.milky",
+      "id": -1341272471,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/radiationresisttea.pure.milky.png"
+    },
+    {
+      "name": "Milky Pure Cooling Tea",
+      "shortname": "purecoolingtea.milky",
+      "id": 1738714421,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/purecoolingtea.milky.png"
+    },
+    {
+      "name": "Milky Pure Harvesting Tea",
+      "shortname": "pureharvestingtea.milky",
+      "id": 789540413,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pureharvestingtea.milky.png"
+    },
+    {
+      "name": "Milky Pure Healing Tea",
+      "shortname": "healingtea.pure.milky",
+      "id": -1644292642,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/healingtea.pure.milky.png"
+    },
+    {
+      "name": "Milky Pure Max Health Tea",
+      "shortname": "maxhealthtea.pure.milky",
+      "id": -1388103748,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/maxhealthtea.pure.milky.png"
+    },
+    {
+      "name": "Milky Pure Ore Tea",
+      "shortname": "oretea.pure.milky",
+      "id": 1243083208,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/oretea.pure.milky.png"
+    },
+    {
+      "name": "Milky Pure Scrap Tea",
+      "shortname": "scraptea.pure.milky",
+      "id": -1057052157,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/scraptea.pure.milky.png"
+    },
+    {
+      "name": "Milky Pure Warming Tea",
+      "shortname": "purewarmingtea.milky",
+      "id": 91167975,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/purewarmingtea.milky.png"
+    },
+    {
+      "name": "Milky Pure Wood Tea",
+      "shortname": "woodtea.pure.milky",
+      "id": 777041831,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/woodtea.pure.milky.png"
+    },
+    {
       "name": "Minecart Planter",
       "shortname": "minecart.planter",
       "id": 1361520181,
@@ -5558,6 +5843,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/ballista.bolt.pitchfork.png"
     },
     {
+      "name": "Plague Doctor Hazmat Suit",
+      "shortname": "hazmat.plague",
+      "id": -1587608109,
+      "category": "Attire",
+      "icon": "https://cdn.rusthelp.com/images/public/hazmat.plague.png"
+    },
+    {
       "name": "Plank",
       "shortname": "plank",
       "id": -952411326,
@@ -5943,6 +6235,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/bearmeat.png"
     },
     {
+      "name": "Raw Beef",
+      "shortname": "beefmeat",
+      "id": -201824959,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/beefmeat.png"
+    },
+    {
       "name": "Raw Big Cat Meat",
       "shortname": "bigcatmeat",
       "id": -2095813057,
@@ -5990,6 +6289,13 @@
       "id": -1709878924,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/humanmeat.raw.png"
+    },
+    {
+      "name": "Raw Mutton",
+      "shortname": "muttonmeat",
+      "id": -1957595450,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/muttonmeat.png"
     },
     {
       "name": "Raw Pork",
@@ -6200,6 +6506,76 @@
       "id": 1394042569,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/rhib.png"
+    },
+    {
+      "name": "Rich Apple Pie",
+      "shortname": "pie.apple.rich",
+      "id": -1846744758,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.apple.rich.png"
+    },
+    {
+      "name": "Rich Bear Pie",
+      "shortname": "pie.bear.rich",
+      "id": 1883513936,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.bear.rich.png"
+    },
+    {
+      "name": "Rich Beef Pie",
+      "shortname": "pie.beef.rich",
+      "id": -867055736,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.beef.rich.png"
+    },
+    {
+      "name": "Rich Big Cat Pie",
+      "shortname": "pie.bigcat.rich",
+      "id": 1469787676,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.bigcat.rich.png"
+    },
+    {
+      "name": "Rich Chicken Pie",
+      "shortname": "pie.chicken.rich",
+      "id": 2006264797,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.chicken.rich.png"
+    },
+    {
+      "name": "Rich Fish Pie",
+      "shortname": "pie.fish.rich",
+      "id": 1427291780,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.fish.rich.png"
+    },
+    {
+      "name": "Rich Hunters Pie",
+      "shortname": "pie.hunters.rich",
+      "id": -1188678681,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.hunters.rich.png"
+    },
+    {
+      "name": "Rich Pork Pie",
+      "shortname": "pie.pork.rich",
+      "id": 1988640176,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.pork.rich.png"
+    },
+    {
+      "name": "Rich Pumpkin Pie",
+      "shortname": "pie.pumpkin.rich",
+      "id": 1364112542,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.pumpkin.rich.png"
+    },
+    {
+      "name": "Rich Shepherds Pie",
+      "shortname": "pie.mutton.rich",
+      "id": 1468691829,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.mutton.rich.png"
     },
     {
       "name": "Rifle Body",
@@ -6734,6 +7110,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/door.double.hinged.metal.png"
     },
     {
+      "name": "Shepherds Pie",
+      "shortname": "pie.mutton",
+      "id": 939198535,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.mutton.png"
+    },
+    {
       "name": "Shirt",
       "shortname": "shirt.collared",
       "id": -2025184684,
@@ -6902,6 +7285,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/electric.sirenlight.png"
     },
     {
+      "name": "Skimmed Milk",
+      "shortname": "skimmedmilk",
+      "id": -1019639625,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/skimmedmilk.png"
+    },
+    {
       "name": "Skinning Knife",
       "shortname": "knife.skinning",
       "id": -2073432256,
@@ -6984,6 +7374,13 @@
       "id": -769647921,
       "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/skull.trophy.png"
+    },
+    {
+      "name": "Skull Wall Lamp",
+      "shortname": "tunalight.skull",
+      "id": -1716340729,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/tunalight.skull.png"
     },
     {
       "name": "Sky Lantern",
@@ -7420,6 +7817,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/bearmeat.spoiled.png"
     },
     {
+      "name": "Spoiled Beef",
+      "shortname": "beefmeat.spoiled",
+      "id": 1412100395,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/beefmeat.spoiled.png"
+    },
+    {
       "name": "Spoiled Big Cat Meat",
       "shortname": "bigcatmeat.spoiled",
       "id": 248643189,
@@ -7467,6 +7871,13 @@
       "id": 1272768630,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/humanmeat.spoiled.png"
+    },
+    {
+      "name": "Spoiled Mutton",
+      "shortname": "muttonmeat.spoiled",
+      "id": 1751463672,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/muttonmeat.spoiled.png"
     },
     {
       "name": "Spoiled Pork Meat",
@@ -8305,7 +8716,7 @@
       "name": "Water Jug",
       "shortname": "waterjug",
       "id": -119235651,
-      "category": "Food",
+      "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/waterjug.png"
     },
     {
@@ -8750,6 +9161,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/wall.window.bars.wood.png"
     },
     {
+      "name": "Wool",
+      "shortname": "wool",
+      "id": 204391867,
+      "category": "Resources",
+      "icon": "https://cdn.rusthelp.com/images/public/wool.png"
+    },
+    {
       "name": "Work Cart",
       "shortname": "workcart",
       "id": -810326667,
@@ -8867,6 +9285,13 @@
       "id": 680234026,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/fish.yellowperch.png"
+    },
+    {
+      "name": "Zombie Wumpus Plush",
+      "shortname": "discord.zombie.plushie",
+      "id": -570638754,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/discord.zombie.plushie.png"
     }
   ]
 }

@@ -1,62 +1,17 @@
 {
-  "version": "2026-11-05",
-  "updated": "2026-11-05T23:59:47.568Z",
+  "version": "2026-11-13",
+  "updated": "2026-11-13T00:01:38.622Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1319,
+  "count": 1327,
   "added": [
-    "barricade.sandbags.half",
-    "barricade.sandbags.pillbox",
-    "barricade.sandbags.three.quarter",
-    "alien.costume",
-    "wall.animal.fence",
-    "wall.animal.fence.gate",
-    "pie.beef",
-    "generator.biofuel",
-    "bread.brioche.loaf",
-    "beefmeat.cooked",
-    "muttonmeat.cooked",
-    "cream",
-    "radiationresisttea.pure.creamy",
-    "purecoolingtea.creamy",
-    "pureharvestingtea.creamy",
-    "healingtea.pure.creamy",
-    "maxhealthtea.pure.creamy",
-    "oretea.pure.creamy",
-    "scraptea.pure.creamy",
-    "purewarmingtea.creamy",
-    "woodtea.pure.creamy",
-    "halloween.string.lights",
-    "halloweenwreath",
-    "milk",
-    "radiationresisttea.pure.milky",
-    "purecoolingtea.milky",
-    "pureharvestingtea.milky",
-    "healingtea.pure.milky",
-    "maxhealthtea.pure.milky",
-    "oretea.pure.milky",
-    "scraptea.pure.milky",
-    "purewarmingtea.milky",
-    "woodtea.pure.milky",
-    "hazmat.plague",
-    "beefmeat",
-    "muttonmeat",
-    "pie.apple.rich",
-    "pie.bear.rich",
-    "pie.beef.rich",
-    "pie.bigcat.rich",
-    "pie.chicken.rich",
-    "pie.fish.rich",
-    "pie.hunters.rich",
-    "pie.pork.rich",
-    "pie.pumpkin.rich",
-    "pie.mutton.rich",
-    "pie.mutton",
-    "skimmedmilk",
-    "tunalight.skull",
-    "beefmeat.spoiled",
-    "muttonmeat.spoiled",
-    "wool",
-    "discord.zombie.plushie"
+    "blueprintbook",
+    "blueprintfragment",
+    "blueprintpage",
+    "minifridge",
+    "pie.crocodile.rich",
+    "shears",
+    "smg.uzi",
+    "clothing.mod.armorinsert_wool"
   ],
   "removed": [],
   "items": [
@@ -561,42 +516,42 @@
       "name": "Artist Canvas Large",
       "shortname": "sign.artistcanvas.m",
       "id": -946599113,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.m.png"
     },
     {
       "name": "Artist Canvas Medium",
       "shortname": "sign.artistcanvas.s",
       "id": -946599131,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.s.png"
     },
     {
       "name": "Artist Canvas Small",
       "shortname": "sign.artistcanvas.xs",
       "id": 1609921845,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.xs.png"
     },
     {
       "name": "Artist Canvas Standing",
       "shortname": "sign.artistcanvas.l",
       "id": -946599114,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.l.png"
     },
     {
       "name": "Artist Canvas XL",
       "shortname": "sign.artistcanvas.xl",
       "id": 1562867678,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.xl.png"
     },
     {
       "name": "Artist Canvas XXL",
       "shortname": "sign.artistcanvas.xxl",
       "id": -816769770,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.artistcanvas.xxl.png"
     },
     {
@@ -1181,6 +1136,27 @@
       "icon": "https://cdn.rusthelp.com/images/public/blueprintbase.png"
     },
     {
+      "name": "Blueprint Book",
+      "shortname": "blueprintbook",
+      "id": -1896395719,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/blueprintbook.png"
+    },
+    {
+      "name": "Blueprint Fragment",
+      "shortname": "blueprintfragment",
+      "id": -143481979,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/blueprintfragment.png"
+    },
+    {
+      "name": "Blueprint Page",
+      "shortname": "blueprintpage",
+      "id": -1716287874,
+      "category": "Component",
+      "icon": "https://cdn.rusthelp.com/images/public/blueprintpage.png"
+    },
+    {
       "name": "Blunderbuss",
       "shortname": "blunderbuss",
       "id": -880412831,
@@ -1541,14 +1517,14 @@
       "name": "Cancer Research UK 2026 Plushie",
       "shortname": "charity.plushy.04",
       "id": 2130820927,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.04.png"
     },
     {
       "name": "Cancer Research UK Plushie",
       "shortname": "charity.plushy.01",
       "id": 2130820932,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.01.png"
     },
     {
@@ -1814,7 +1790,7 @@
       "name": "Circle Balloon",
       "shortname": "circleballoon2025",
       "id": -105343718,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/circleballoon2025.png"
     },
     {
@@ -1856,14 +1832,14 @@
       "name": "Clump of Latex Balloons",
       "shortname": "latexclumpballoon2025",
       "id": -1440443161,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/latexclumpballoon2025.png"
     },
     {
       "name": "Clump of Mixed Balloons",
       "shortname": "mixedclumpballoon2025",
       "id": 571949408,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/mixedclumpballoon2025.png"
     },
     {
@@ -2416,7 +2392,7 @@
       "name": "Discord Trophy",
       "shortname": "discord.trophy",
       "id": 1494014226,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/discord.trophy.png"
     },
     {
@@ -2829,7 +2805,7 @@
       "name": "Fish Trophy",
       "shortname": "fishtrophy",
       "id": -1913996738,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/fishtrophy.png"
     },
     {
@@ -3417,7 +3393,7 @@
       "name": "Hazmat Plushy",
       "shortname": "hazmat.plushy",
       "id": 1578317134,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/hazmat.plushy.png"
     },
     {
@@ -3459,7 +3435,7 @@
       "name": "Heart Balloon",
       "shortname": "heartballoon2025",
       "id": 362863314,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/heartballoon2025.png"
     },
     {
@@ -3515,7 +3491,7 @@
       "name": "Heavy Scientist Plushie",
       "shortname": "heavy.scientist.plushie",
       "id": 146221721,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/heavy.scientist.plushie.png"
     },
     {
@@ -3942,7 +3918,7 @@
       "name": "Ice Sculpture",
       "shortname": "sculpture.ice",
       "id": 504109620,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sculpture.ice.png"
     },
     {
@@ -4306,14 +4282,14 @@
       "name": "Landscape Photo Frame",
       "shortname": "photoframe.landscape",
       "id": 1697996440,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/photoframe.landscape.png"
     },
     {
       "name": "Landscape Picture Frame",
       "shortname": "sign.pictureframe.landscape",
       "id": -845557339,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.pictureframe.landscape.png"
     },
     {
@@ -4383,7 +4359,7 @@
       "name": "Large Hunting Trophy",
       "shortname": "huntingtrophylarge",
       "id": 960673498,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/huntingtrophylarge.png"
     },
     {
@@ -4418,7 +4394,7 @@
       "name": "Large Photo Frame",
       "shortname": "photoframe.large",
       "id": 1205084994,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/photoframe.large.png"
     },
     {
@@ -4488,7 +4464,7 @@
       "name": "Latex Balloon",
       "shortname": "latexballoon2025",
       "id": 1295301598,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/latexballoon2025.png"
     },
     {
@@ -4572,42 +4548,42 @@
       "name": "Light-Up Frame Large",
       "shortname": "lightup.large",
       "id": 242421166,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightup.large.png"
     },
     {
       "name": "Light-Up Frame Medium",
       "shortname": "lightupframe.medium",
       "id": -1294739579,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightupframe.medium.png"
     },
     {
       "name": "Light-Up Frame Small",
       "shortname": "lightupframe.small",
       "id": 1691223771,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightupframe.small.png"
     },
     {
       "name": "Light-Up Frame Standing",
       "shortname": "lightupframe.standing",
       "id": 1950013766,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightupframe.standing.png"
     },
     {
       "name": "Light-Up Frame XL",
       "shortname": "lightup.xl",
       "id": 1801656689,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightup.xl.png"
     },
     {
       "name": "Light-Up Frame XXL",
       "shortname": "lightup.xxl",
       "id": 1447138977,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/lightup.xxl.png"
     },
     {
@@ -5241,6 +5217,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/mini%20fridge.png"
     },
     {
+      "name": "Mini Fridge (minifridge)",
+      "shortname": "minifridge",
+      "id": 1174484438,
+      "category": "Electrical",
+      "icon": "https://cdn.rusthelp.com/images/public/minifridge.png"
+    },
+    {
       "name": "Minicopter",
       "shortname": "minicopter",
       "id": -1334255764,
@@ -5587,42 +5570,42 @@
       "name": "Ornate Frame large",
       "shortname": "goldframe.large",
       "id": -996235148,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.large.png"
     },
     {
       "name": "Ornate Frame Medium",
       "shortname": "goldframe.medium",
       "id": -1901993050,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.medium.png"
     },
     {
       "name": "Ornate Frame Small",
       "shortname": "goldframe.small",
       "id": -1836526520,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.small.png"
     },
     {
       "name": "Ornate Frame Standing",
       "shortname": "goldframe.standing",
       "id": -1528767189,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.standing.png"
     },
     {
       "name": "Ornate Frame XL",
       "shortname": "goldframe.xl",
       "id": -1430299277,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.xl.png"
     },
     {
       "name": "Ornate Frame XXL",
       "shortname": "goldframe.xxl",
       "id": -1322332389,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/goldframe.xxl.png"
     },
     {
@@ -5902,21 +5885,21 @@
       "name": "Portable Easel",
       "shortname": "easel",
       "id": -1779203452,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/easel.png"
     },
     {
       "name": "Portrait Photo Frame",
       "shortname": "photoframe.portrait",
       "id": 1729712564,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/photoframe.portrait.png"
     },
     {
       "name": "Portrait Picture Frame",
       "shortname": "sign.pictureframe.portrait",
       "id": -1370759135,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.pictureframe.portrait.png"
     },
     {
@@ -6543,6 +6526,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/pie.chicken.rich.png"
     },
     {
+      "name": "Rich Crocodile Pie",
+      "shortname": "pie.crocodile.rich",
+      "id": -1540865198,
+      "category": "Food",
+      "icon": "https://cdn.rusthelp.com/images/public/pie.crocodile.rich.png"
+    },
+    {
       "name": "Rich Fish Pie",
       "shortname": "pie.fish.rich",
       "id": 1427291780,
@@ -6658,14 +6648,14 @@
       "name": "Ronald McDonald House UK 2026 Plushie",
       "shortname": "charity.plushy.03",
       "id": 2130820934,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.03.png"
     },
     {
       "name": "Ronald McDonald House UK Plushie",
       "shortname": "charity.plushy.02",
       "id": 2130820933,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/charity.plushy.02.png"
     },
     {
@@ -6966,7 +6956,7 @@
       "name": "Scientist Plushie",
       "shortname": "scientist.plushie",
       "id": 445662288,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scientist.plushie.png"
     },
     {
@@ -7089,6 +7079,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/sewingkit.png"
     },
     {
+      "name": "Shears",
+      "shortname": "shears",
+      "id": -1953695556,
+      "category": "Tool",
+      "icon": "https://cdn.rusthelp.com/images/public/shears.png"
+    },
+    {
       "name": "Sheet Metal",
       "shortname": "sheetmetal",
       "id": -1994909036,
@@ -7176,42 +7173,42 @@
       "name": "Shutter Frame large",
       "shortname": "scrapframe.large",
       "id": -1094453063,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.large.png"
     },
     {
       "name": "Shutter Frame Medium",
       "shortname": "scrapframe.medium",
       "id": -1060567807,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.medium.png"
     },
     {
       "name": "Shutter Frame Small",
       "shortname": "scrapframe.small",
       "id": -498301781,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.small.png"
     },
     {
       "name": "Shutter Frame Standing",
       "shortname": "scrapframe.standing",
       "id": -1774190142,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.standing.png"
     },
     {
       "name": "Shutter Frame XL",
       "shortname": "scrapframe.xl",
       "id": -1244287686,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.xl.png"
     },
     {
       "name": "Shutter Frame XXL",
       "shortname": "scrapframe.xxl",
       "id": -1211801774,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/scrapframe.xxl.png"
     },
     {
@@ -7477,7 +7474,7 @@
       "name": "Small Hunting Trophy",
       "shortname": "huntingtrophysmall",
       "id": -869598982,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/huntingtrophysmall.png"
     },
     {
@@ -7785,7 +7782,7 @@
       "name": "Speech Bubble Balloon",
       "shortname": "speechbubbleballoon2025",
       "id": 963400638,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/speechbubbleballoon2025.png"
     },
     {
@@ -7946,7 +7943,7 @@
       "name": "Star Balloon",
       "shortname": "starballoon2025",
       "id": -1782127806,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/starballoon2025.png"
     },
     {
@@ -8002,7 +7999,7 @@
       "name": "Stone Sculpture",
       "shortname": "sculpture.rock",
       "id": 1852905808,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sculpture.rock.png"
     },
     {
@@ -8261,7 +8258,7 @@
       "name": "Tall Picture Frame",
       "shortname": "sign.pictureframe.tall",
       "id": 121049755,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.pictureframe.tall.png"
     },
     {
@@ -8520,14 +8517,14 @@
       "name": "Twitch Rivals Trophy",
       "shortname": "trophy",
       "id": 975983052,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/trophy.png"
     },
     {
       "name": "Twitch Rivals Trophy 2023",
       "shortname": "trophy2023",
       "id": -901370585,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/trophy2023.png"
     },
     {
@@ -8557,6 +8554,13 @@
       "id": -258457936,
       "category": "Items",
       "icon": "https://cdn.rusthelp.com/images/public/storage_barrel_a.png"
+    },
+    {
+      "name": "Uzi",
+      "shortname": "smg.uzi",
+      "id": 2125127001,
+      "category": "Weapon",
+      "icon": "https://cdn.rusthelp.com/images/public/smg.uzi.png"
     },
     {
       "name": "Vampire Stake",
@@ -8653,28 +8657,28 @@
       "name": "Wanted Poster",
       "shortname": "wantedposter",
       "id": -1344017968,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/wantedposter.png"
     },
     {
       "name": "Wanted Poster 2",
       "shortname": "wantedposter.wantedposter2",
       "id": 301063058,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/wantedposter.wantedposter2.png"
     },
     {
       "name": "Wanted Poster 3",
       "shortname": "wantedposter.wantedposter3",
       "id": -1265020883,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/wantedposter.wantedposter3.png"
     },
     {
       "name": "Wanted Poster 4",
       "shortname": "wantedposter.wantedposter4",
       "id": 1463862472,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/wantedposter.wantedposter4.png"
     },
     {
@@ -8975,28 +8979,28 @@
       "name": "Wood Frame Large",
       "shortname": "woodframe.large",
       "id": -635951327,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/woodframe.large.png"
     },
     {
       "name": "Wood Frame Medium",
       "shortname": "woodframe.medium",
       "id": -1541706279,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/woodframe.medium.png"
     },
     {
       "name": "Wood Frame Small",
       "shortname": "woodframe.small",
       "id": -1476278729,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/woodframe.small.png"
     },
     {
       "name": "Wood Frame Standing",
       "shortname": "woodframe.standing",
       "id": 1769475390,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/woodframe.standing.png"
     },
     {
@@ -9168,6 +9172,13 @@
       "icon": "https://cdn.rusthelp.com/images/public/wool.png"
     },
     {
+      "name": "Wool Armor Insert",
+      "shortname": "clothing.mod.armorinsert_wool",
+      "id": -593892104,
+      "category": "Items",
+      "icon": "https://cdn.rusthelp.com/images/public/clothing.mod.armorinsert_wool.png"
+    },
+    {
       "name": "Work Cart",
       "shortname": "workcart",
       "id": -810326667,
@@ -9220,14 +9231,14 @@
       "name": "Wumpus Plush",
       "shortname": "discord.plushie",
       "id": -1800102806,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/discord.plushie.png"
     },
     {
       "name": "XL Picture Frame",
       "shortname": "sign.pictureframe.xl",
       "id": -996185386,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.pictureframe.xl.png"
     },
     {
@@ -9241,7 +9252,7 @@
       "name": "XXL Picture Frame",
       "shortname": "sign.pictureframe.xxl",
       "id": 98508942,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/sign.pictureframe.xxl.png"
     },
     {
@@ -9290,7 +9301,7 @@
       "name": "Zombie Wumpus Plush",
       "shortname": "discord.zombie.plushie",
       "id": -570638754,
-      "category": "Items",
+      "category": "Fun",
       "icon": "https://cdn.rusthelp.com/images/public/discord.zombie.plushie.png"
     }
   ]

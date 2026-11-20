@@ -1,19 +1,21 @@
 {
-  "version": "2026-11-13",
-  "updated": "2026-11-13T00:01:38.622Z",
+  "version": "2026-11-20",
+  "updated": "2026-11-20T01:07:46.704Z",
   "source": "https://github.com/SzyMig/Rust-item-list-JSON",
-  "count": 1327,
-  "added": [
-    "blueprintbook",
-    "blueprintfragment",
-    "blueprintpage",
-    "minifridge",
-    "pie.crocodile.rich",
-    "shears",
-    "smg.uzi",
-    "clothing.mod.armorinsert_wool"
+  "count": 1317,
+  "added": [],
+  "removed": [
+    "2module car",
+    "2module car chassis",
+    "3module car",
+    "3module car chassis",
+    "4module car",
+    "4module car chassis",
+    "advancedblueprintfragment",
+    "basicblueprintfragment",
+    "charity.plushie.05",
+    "mini fridge"
   ],
-  "removed": [],
   "items": [
     {
       "name": "#barricade.sandbags.half",
@@ -66,13 +68,6 @@
     },
     {
       "name": "2 Module Car",
-      "shortname": "2module car",
-      "id": -866121090,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/2module%20car.png"
-    },
-    {
-      "name": "2 Module Car (2module.car)",
       "shortname": "2module.car",
       "id": -866121090,
       "category": "Misc",
@@ -80,13 +75,6 @@
     },
     {
       "name": "2 Module Car Chassis",
-      "shortname": "2module car chassis",
-      "id": -226151558,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/2module%20car%20chassis.png"
-    },
-    {
-      "name": "2 Module Car Chassis (2module.car.chassis)",
       "shortname": "2module.car.chassis",
       "id": -226151558,
       "category": "Misc",
@@ -94,13 +82,6 @@
     },
     {
       "name": "3 Module Car",
-      "shortname": "3module car",
-      "id": -831725027,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/3module%20car.png"
-    },
-    {
-      "name": "3 Module Car (3module.car)",
       "shortname": "3module.car",
       "id": -831725027,
       "category": "Misc",
@@ -108,13 +89,6 @@
     },
     {
       "name": "3 Module Car Chassis",
-      "shortname": "3module car chassis",
-      "id": 1482871705,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/3module%20car%20chassis.png"
-    },
-    {
-      "name": "3 Module Car Chassis (3module.car.chassis)",
       "shortname": "3module.car.chassis",
       "id": 1482871705,
       "category": "Misc",
@@ -122,13 +96,6 @@
     },
     {
       "name": "4 Module Car",
-      "shortname": "4module car",
-      "id": -935322684,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/4module%20car.png"
-    },
-    {
-      "name": "4 Module Car (4module.car)",
       "shortname": "4module.car",
       "id": -935322684,
       "category": "Misc",
@@ -136,13 +103,6 @@
     },
     {
       "name": "4 Module Car Chassis",
-      "shortname": "4module car chassis",
-      "id": 385099196,
-      "category": "Misc",
-      "icon": "https://cdn.rusthelp.com/images/public/4module%20car%20chassis.png"
-    },
-    {
-      "name": "4 Module Car Chassis (4module.car.chassis)",
       "shortname": "4module.car.chassis",
       "id": 385099196,
       "category": "Misc",
@@ -273,13 +233,6 @@
       "id": -1729415579,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/radiationresisttea.advanced.png"
-    },
-    {
-      "name": "Advanced Blueprint Fragment",
-      "shortname": "advancedblueprintfragment",
-      "id": -1896395719,
-      "category": "Component",
-      "icon": "https://cdn.rusthelp.com/images/public/advancedblueprintfragment.png"
     },
     {
       "name": "Advanced Cooling Tea",
@@ -735,13 +688,6 @@
       "id": -487356515,
       "category": "Food",
       "icon": "https://cdn.rusthelp.com/images/public/radiationresisttea.png"
-    },
-    {
-      "name": "Basic Blueprint Fragment",
-      "shortname": "basicblueprintfragment",
-      "id": -143481979,
-      "category": "Component",
-      "icon": "https://cdn.rusthelp.com/images/public/basicblueprintfragment.png"
     },
     {
       "name": "Basic Cooling Tea",
@@ -3859,13 +3805,6 @@
       "icon": "https://cdn.rusthelp.com/images/public/skull.human.png"
     },
     {
-      "name": "Humane World Charity 2026 Plushie",
-      "shortname": "charity.plushie.05",
-      "id": 374496151,
-      "category": "Items",
-      "icon": "https://cdn.rusthelp.com/images/public/charity.plushie.05.png"
-    },
-    {
       "name": "Hunters Pie",
       "shortname": "pie.hunters",
       "id": 320438357,
@@ -5211,13 +5150,6 @@
     },
     {
       "name": "Mini Fridge",
-      "shortname": "mini fridge",
-      "id": 1174484438,
-      "category": "Electrical",
-      "icon": "https://cdn.rusthelp.com/images/public/mini%20fridge.png"
-    },
-    {
-      "name": "Mini Fridge (minifridge)",
       "shortname": "minifridge",
       "id": 1174484438,
       "category": "Electrical",
